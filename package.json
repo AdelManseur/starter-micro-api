@@ -1,6 +1,6 @@
 {
   "name": "starter-micro-api",
-  "version": "1.0.0",
+  "version": "1.0.0"
   "description": "Cyclic.sh micro api starter",
   "main": "index.js",
   "scripts": {
